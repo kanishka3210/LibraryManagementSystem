@@ -1,0 +1,26 @@
+# Sample Data
+
+## Books
+
+| ISBN | Title | Author | Genre |
+|---|---|---|---|
+| 101 | Java Programming | James Gosling | Programming |
+| 102 | Right Up | Liz | Romance |
+| 103 | Clean Code | Robert C. Martin | Programming |
+| 104 | The Alchemist | Paulo Coelho | Fiction |
+| 105 | Wings of Fire | A. P. J. Abdul Kalam | Biography |
+
+## Members
+| Member ID | Name | Contact |
+|---|---|---|
+| M001 | Kanishka | 9876543210 |
+| M002 | Arun | 9876501234 |
+| M003 | Priya | 9876512345 |
+
+## Sample Test Scenario
+
+1. Add a book using ISBN 101.
+2. Register member M001.
+3. Borrow book 101 using member ID M001.
+4. Return book 101 using member ID M001.
+5. Search for Java Programming.
